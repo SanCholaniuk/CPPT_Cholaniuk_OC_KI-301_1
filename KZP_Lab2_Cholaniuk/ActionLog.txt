@@ -1,0 +1,8 @@
+[2023-12-03 20:20:27] Clicked left carabiner button. New resource: 9
+[2023-12-03 20:20:27] Requested left carabiner button resource: 9
+[2023-12-03 20:20:27] Clicked right carabiner button. New resource: 9
+[2023-12-03 20:20:27] Requested right carabiner button resource: 9
+[2023-12-03 20:20:27] Set climber position. X: 5, Y: 3
+[2023-12-03 20:20:27] Scrolled down. Climbing equipment direction: DOWN
+[2023-12-03 20:20:27] Scrolled up. Climbing equipment direction: UP
+[2023-12-03 20:20:27] Requested climbing equipment scrolling direction: UP

@@ -1,0 +1,5 @@
+Clicked left carabiner button. New resource: 9
+Clicked right carabiner button. New resource: 9
+Set climber position. X: 5, Y: 3
+Scrolled down. Climbing equipment direction: DOWN
+Scrolled up. Climbing equipment direction: UP

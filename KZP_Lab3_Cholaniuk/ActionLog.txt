@@ -1,0 +1,8 @@
+[2023-12-03 20:04:54] Set climber position. X: 0, Y: 0
+[2023-12-03 20:14:09] Clicked left carabiner button. New resource: 9
+[2023-12-03 20:14:09] Set climber position. X: 0, Y: 0
+[2023-12-03 20:16:31] Clicked left carabiner button. New resource: 9
+[2023-12-03 20:16:31] Clicked right carabiner button. New resource: 9
+[2023-12-03 20:16:31] Set climber position. X: 0, Y: 0
+[2023-12-03 20:16:31] Scrolled down. Climbing equipment direction: NEUTRAL
+[2023-12-03 20:16:31] Scrolled up. Climbing equipment direction: UP
